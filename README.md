@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PulaneBopape
+- 👋 Hi, I’m PulaneBopape
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Designing
 - 💞️ I’m looking to collaborate on coding
